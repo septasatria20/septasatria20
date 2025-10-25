@@ -6,8 +6,12 @@ I am a **Business Information Systems** student at the State Polytechnic of Mala
 
 <p align="left">
   <a href="https://septastr.space/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-septastr.space-blue?style=flat-square&logo=google-chrome&logoColor=white" alt="Portfolio Badge"></a>
-  <a href="https://www.linkedin.com/in/septasatria/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Dwi%20Septa%20Satria%20Agung-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
+  <a href="https://www.linkedin.com/in/DWISPTR/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Dwi%20Septa-blue?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
   <a href="mailto:septasatria.str@gmail.com"><img src="https://img.shields.io/badge/Email-septasatria.str@gmail.com-red?style=flat-square&logo=gmail&logoColor=white" alt="Email Badge"></a>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/IhnSgffecnIwxq0t0l/giphy.gif" width="400" alt="Coding Animation">
 </p>
 
 ---
@@ -33,7 +37,13 @@ Here are the core technologies I work with in my projects:
 
 ---
 
+### 🐍 My GitHub Contribution "Snake Game"
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/septasatria20/septasatria20/output/github-contribution-grid-snake-dark.svg" alt="Snake Game Animation" />
+</p>
+
+---
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=septasatria20&style=flat-square&color=blueviolet" alt="Profile Visitor Counter" />
