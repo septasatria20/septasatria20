@@ -11,7 +11,7 @@ I am a **Business Information Systems** student at the State Polytechnic of Mala
 </p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/IhnSgffecnIwxq0t0l/giphy.gif" width="400" alt="Coding Animation">
+  <img src="https://raw.githubusercontent.com/i-am-stark/i-am-stark/main/developer.gif" width="400" alt="Coding Animation">
 </p>
 
 ---
