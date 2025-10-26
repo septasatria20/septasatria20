@@ -21,8 +21,6 @@ jobs:
         with:
           github_user_name: septasatria20
           
-          # ✨ PERBAIKAN 1: Memindahkan Token dari 'env' ke 'with'
-          # Nama input-nya adalah 'github_token'
           github_token: ${{ secrets.GITHUB_TOKEN }}
           
           outputs: |

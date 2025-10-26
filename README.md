@@ -37,10 +37,10 @@ Here are the core technologies I work with in my projects:
 
 ---
 
-### 🐍 My GitHub Contribution "Snake Game"
+### 👾 My GitHub Pacman
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/septasatria20/septasatria20/output/github-contribution-grid-snake-dark.svg" alt="Snake Game Animation" />
+  <img src="https://github-readme-pacman.vercel.app/api?id=septasatria20&theme=tokyonight_night_color" alt="GitHub Pacman" />
 </p>
 
 ---
