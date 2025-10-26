@@ -13,7 +13,11 @@
 ## 👾 Contribution Pacman
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/septasatria20/septasatria20/output/pacman-contribution-graph.svg" alt="Pacman eating contributions" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/septasatria20/septasatria20/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/septasatria20/septasatria20/output/pacman-contribution-graph.svg">
+    <img alt="Pacman eating contributions" src="https://raw.githubusercontent.com/septasatria20/septasatria20/output/pacman-contribution-graph.svg">
+  </picture>
 </div>
 
 ---
