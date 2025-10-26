@@ -1,4 +1,6 @@
-<div align="center">
+﻿<div align="center">
+
+<h2 style="font-size: 32px; font-weight: bold;">بِسْمِ اللَّهِ الرَّحْمَنِ الرَّحِيم</h2>
 
 # 👋 Hi, I'm Dwi Septa Satria Agung
 
@@ -10,15 +12,12 @@
 
 ## 🎓 About Me
 
-```typescript
-const septa = {
-    education: "Business Information Systems @ State Polytechnic of Malang",
-    focus: ["Back-End Development", "System Analysis"],
-    currentlyWorking: "Freelance Web Developer",
-    interests: ["Cloud Computing", "API Design", "Database Architecture"],
-    funFact: "I turn coffee into code ☕→💻"
-};
-```
+**👨‍💻 Profile:**
+- 🎓 Education: Business Information Systems @ State Polytechnic of Malang
+- 💼 Currently Working: Freelance Web Developer
+- 🎯 Focus Areas: Back-End Development, System Analysis
+- ☁️ Interests: Cloud Computing, API Design, Database Architecture
+- ⚡ Fun Fact: I am Sherlock Holmes
 
 I'm a passionate **Business Information Systems** student specializing in **back-end web development** and **system analysis**. With hands-on freelance experience, I build and optimize web applications that deliver efficient tech solutions for business processes.
 
@@ -30,6 +29,7 @@ I'm a passionate **Business Information Systems** student specializing in **back
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-septastr.space-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://septastr.space/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dwi_Septa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/septasatria/)
+[![Instagram](https://img.shields.io/badge/Instagram-@__septasatria-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_septasatria/)
 [![Email](https://img.shields.io/badge/Email-septasatria.str@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:septasatria.str@gmail.com)
 
 </div>
@@ -75,18 +75,6 @@ I'm a passionate **Business Information Systems** student specializing in **back
 
 ---
 
-## � Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/septasatria20/septasatria20/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/septasatria20/septasatria20/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/septasatria20/septasatria20/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
-
----
-
 ## 👾 Contribution Pacman
 
 <div align="center">
@@ -95,28 +83,10 @@ I'm a passionate **Business Information Systems** student specializing in **back
 
 ---
 
-## � Activity Graph
+## 📈 Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=septasatria20&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=64FFDA&line=64FFDA&point=FFFFFF" alt="Activity Graph" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=septasatria20&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</div>
-
----
-
-## 💼 Featured Projects
-
-<div align="center">
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=septasatria20&repo=septasatria20&theme=tokyonight&hide_border=true&bg_color=0D1117)](https://github.com/septasatria20/septasatria20)
-
 </div>
 
 ---
