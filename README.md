@@ -10,14 +10,47 @@
 
 ---
 
+## 👾 Contribution Pacman
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/septasatria20/septasatria20/output/pacman-contribution-graph.svg" alt="Pacman eating contributions" />
+</div>
+
+---
+
 ## 🎓 About Me
 
-**👨‍💻 Profile:**
-- 🎓 Education: Business Information Systems @ State Polytechnic of Malang
-- 💼 Currently Working: Freelance Web Developer
-- 🎯 Focus Areas: Back-End Development, System Analysis
-- ☁️ Interests: Cloud Computing, API Design, Database Architecture
-- ⚡ Fun Fact: I am Sherlock Holmes
+<details>
+<summary><b>🎓 Education</b></summary>
+<br>
+Business Information Systems @ State Polytechnic of Malang
+</details>
+
+<details>
+<summary><b>💼 Currently Working</b></summary>
+<br>
+Freelance Web Developer
+</details>
+
+<details>
+<summary><b>🎯 Focus Areas</b></summary>
+<br>
+Back-End Development, System Analysis
+</details>
+
+<details>
+<summary><b>☁️ Interests</b></summary>
+<br>
+Cloud Computing, API Design, Database Architecture
+</details>
+
+<details>
+<summary><b>⚡ Fun Fact</b></summary>
+<br>
+I am Sherlock Holmes
+</details>
+
+<br>
 
 I'm a passionate **Business Information Systems** student specializing in **back-end web development** and **system analysis**. With hands-on freelance experience, I build and optimize web applications that deliver efficient tech solutions for business processes.
 
@@ -71,14 +104,6 @@ I'm a passionate **Business Information Systems** student specializing in **back
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=septasatria20&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak Stats" />
-</div>
-
----
-
-## 👾 Contribution Pacman
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/septasatria20/septasatria20/output/pacman-contribution-graph.svg" alt="Pacman eating contributions" />
 </div>
 
 ---
