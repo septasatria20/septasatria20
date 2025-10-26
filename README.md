@@ -63,19 +63,17 @@ I'm a passionate **Business Information Systems** student specializing in **back
 ## 🌐 Connect With Me
 
 <div align="center">
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
+</div>
+
+<div align="center">
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-septastr.space-00D9FF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://septastr.space/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Dwi_Septa-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/septasatria/)
 [![Instagram](https://img.shields.io/badge/Instagram-@__septasatria-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/_septasatria/)
 [![Email](https://img.shields.io/badge/Email-septasatria.str@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:septasatria.str@gmail.com)
 
-</div>
-
----
-
-<div align="center">
-<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
-<br><br>
 </div>
 
 ---
