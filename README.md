@@ -10,7 +10,7 @@
 
 ---
 
-## 👾 Contribution Pacman
+## 👾 Contribution Bro Pacman
 
 <div align="center">
   <picture>
@@ -22,7 +22,7 @@
 
 ---
 
-## 🎓 About Me
+## 🎓 About Me, hm?
 
 <details>
 <summary><b>🎓 Education</b></summary>
@@ -45,13 +45,13 @@ Back-End Development, System Analysis
 <details>
 <summary><b>☁️ Interests</b></summary>
 <br>
-Cloud Computing, API Design, Database Architecture
+Cloud Computing, API Design, Cyber Security
 </details>
 
 <details>
 <summary><b>⚡ Fun Fact</b></summary>
 <br>
-I am Sherlock Holmes
+I am Sherlock Holmes hahaha..
 </details>
 
 <br>
@@ -70,6 +70,12 @@ I'm a passionate **Business Information Systems** student specializing in **back
 [![Email](https://img.shields.io/badge/Email-septasatria.str@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:septasatria.str@gmail.com)
 
 </div>
+
+---
+
+- Mario
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
+<br><br>
 
 ---
 
