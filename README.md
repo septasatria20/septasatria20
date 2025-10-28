@@ -22,7 +22,7 @@
 
 ---
 
-## 🎓 About Me, hm?
+## 🎓 About Me, ya?
 
 <details>
 <summary><b>🎓 Education</b></summary>
@@ -104,7 +104,7 @@ I'm a passionate **Business Information Systems** student specializing in **back
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 Statistics
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=septasatria20&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117" alt="Septa's GitHub Stats" />
